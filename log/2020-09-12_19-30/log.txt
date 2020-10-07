@@ -1,0 +1,2 @@
+[信息] Simulation Time: 0.000000s [mea_500kV_1]: 测控装置初始化完毕...OK
+[错误] Simulation Time: 0.000000s [mea_500kV_1]: 测控装置未初始化

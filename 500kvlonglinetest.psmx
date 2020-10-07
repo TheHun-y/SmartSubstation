@@ -1,0 +1,268 @@
+<Meta name="500kvlonglinetest">
+  <messagelist>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100006"><![CDATA[Generating 'E:\Modeling_of_Smart_Substations\MeasurementTest\500kvlonglinetest.gf46\500kvlonglinetest.map'.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100014"><![CDATA[The total number of live nodes: 75]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="400000"><![CDATA[Time for Compile: 0ms  Make: 16ms]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100015"><![CDATA[Will execute (1): call E:\GF\bin\gf46vars.bat]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100015"><![CDATA[Will execute (1): call "E:\GF\bin\gf46vars.bat"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100015"><![CDATA[Will execute (2): make -f 500kvlonglinetest.mak]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100015"><![CDATA[Will execute (2): "E:\Modeling_of_Smart_Substations\MeasurementTest\500kvlonglinetest.gf46\500kvlonglinetest.mak.bat"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100005"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[E:\Modeling_of_Smart_Substations\MeasurementTest\500kvlonglinetest.gf46>call "E:\GF\bin\gf46vars.bat" ]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\common.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "common.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c: In function 'tranHalfInte':]]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3768:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3769:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3770:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3771:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3772:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3773:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3774:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3775:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3776:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3778:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3779:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3780:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3781:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3782:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3783:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3784:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3785:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[common.c:3786:5: warning: passing argument 3 of 'halfWaveInte' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[common.c:3749:6: note: expected 'double *' but argument is of type 'double (*)[48]']]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "common.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\overCurrentRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "overCurrentRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "overCurrentRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\distanceRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "distanceRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "distanceRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\lineStarter.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "lineStarter.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "lineStarter.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\line.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "line.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "line.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\deltaDistanceRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "deltaDistanceRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "deltaDistanceRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\relayMain.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "relayMain.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "relayMain.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\currentDiffRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "currentDiffRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "currentDiffRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\zeroSeqCurrentRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "zeroSeqCurrentRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "zeroSeqCurrentRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\bus.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "bus.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "bus.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\CTBreakRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "CTBreakRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "CTBreakRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\PTbreakRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "PTbreakRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "PTbreakRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\loadLimitRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "loadLimitRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "loadLimitRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\lineTripGenerate.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "lineTripGenerate.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "lineTripGenerate.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\bus_500kV.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "bus_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "bus_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busAntiSaturation.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busAntiSaturation.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busAntiSaturation.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busAntiSaturation_500kV.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busAntiSaturation_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busAntiSaturation_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busBlockLogic.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busBlockLogic.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busBlockLogic.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busBranchFailureRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busBranchFailureRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busBranchFailureRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busBrkFailureJudgeAux_500kV.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busBrkFailureJudgeAux_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busBrkFailureJudgeAux_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busBrkFailureRelay_500kV.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busBrkFailureRelay_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busBrkFailureRelay_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busBrkFailureRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busBrkFailureRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busBrkFailureRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busDeadZoneRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busDeadZoneRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busDeadZoneRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busDiffBackup.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busDiffBackup.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busDiffBackup.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busDiffRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busDiffRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busDiffRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busDiffRelay_500kV.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busDiffRelay_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busDiffRelay_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busModeRecognize.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busModeRecognize.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busModeRecognize.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busOpenPhaseRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busOpenPhaseRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busOpenPhaseRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busOverCurrentRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busOverCurrentRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busOverCurrentRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busPTBreakRelay.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busPTBreakRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busPTBreakRelay.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busStarter.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busStarter.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busStarter.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busStarter_500kV.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busStarter_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busStarter_500kV.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\busTripGenerate.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "busTripGenerate.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "busTripGenerate.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\mea\meaTelemetry.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "meaTelemetry.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "meaTelemetry.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\mea\meaSample.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "meaSample.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[meaSample.c: In function 'meaWriteLog':]]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[meaSample.c:717:5: warning: passing argument 1 of 'notYet' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[..\\code\\common.h:86:5: note: expected 'struct Device *' but argument is of type 'struct meaDevice *']]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[meaSample.c: In function 'meaWriteErrorLog':]]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[meaSample.c:756:5: warning: passing argument 1 of 'notYet' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[..\\code\\common.h:86:5: note: expected 'struct Device *' but argument is of type 'struct meaDevice *']]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[meaSample.c: In function 'meaWriteLogWithPhase':]]></message>
+    <message status="warning" label="build" scope="500kvlonglinetest" groupid="200008"><![CDATA[meaSample.c:788:5: warning: passing argument 1 of 'notYet' from incompatible pointer type [enabled by default]]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[..\\code\\common.h:86:5: note: expected 'struct Device *' but argument is of type 'struct meaDevice *']]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "meaSample.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\imp.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "imp.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "imp.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\deltaDiff.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "deltaDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "deltaDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\mea\meaRecord.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "meaRecord.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "meaRecord.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\lowSideDiff.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "lowSideDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "lowSideDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\lonDiff.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "lonDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "lonDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\splitDiff.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "splitDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "splitDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\overCur.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "overCur.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "overCur.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\tranStarter.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "tranStarter.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "tranStarter.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\tran.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "tran.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "tran.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\tran\zeroDiff.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "zeroDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "zeroDiff.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100004"><![CDATA[Compiling '"E:\Modeling_of_Smart_Substations\MeasurementTest\code\mea\meaTelecontrol.c"' into object code.]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[已复制         1 个文件。]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[gcc.exe -c -I"E:\PSCAD46\emtdc\gf46\inc" -I"E:\PSCAD46\emtdc\gf46\windows"  "meaTelecontrol.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="0"><![CDATA[del "meaTelecontrol.c"]]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="100012"><![CDATA[Linking objects and libraries into binary '500kvlonglinetest.exe']]></message>
+    <message status="normal" label="build" scope="500kvlonglinetest" groupid="400000"><![CDATA[Solve Time = 15ms]]></message>
+    <message status="error" label="runtime" scope="500kvlonglinetest" groupid="300008"><![CDATA[Process has been terminated by user.]]></message>
+    <message status="warning" label="runtime" scope="500kvlonglinetest" groupid="200009"><![CDATA[Simulation ending on user request.]]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="500kvlonglinetest:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="9" scrollx="7229" scrolly="2783" />
+  </List>
+  <Catalog count="0" />
+  <Output device="EMTDC" version="2010" date="2020/10/07" time="14:25:17.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="24000.00384" end="24000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):Vm_1" index="0" id="219677879:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):I2" index="3" id="1343177735:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Im_1" index="6" id="1368395575:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Vn_2" index="9" id="74875656:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):In_1" index="12" id="1124289728:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):meaTrip" index="15" id="1210266359:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>

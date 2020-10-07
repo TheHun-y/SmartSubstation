@@ -1,0 +1,20 @@
+Version Information
+
+2020-10-07 16:47
+新增：mea\meaTelecontrol.c
+1.遥控函数（未加同期检测）
+
+2020-10-05 15:29
+修改：meaSample.c
+1.角差计算函数现在返回的差值范围为-180~180
+2.当前的记录周期为每点记录一次，在meaReadConfiguration()中修改
+修改：meaTelemetry.c
+1.引入了一个局部变量calculatePoints，作为频率计算的点数，修改为48点
+2.当前计算频率使用瞬时值，使用滤波后的值会出现问题
+
+2020-09-13 13:22
+新增：mea\meaSample.c meaTelemetry.c meaRecord.c
+修改：common.h dataStruct.h
+1.完成：测控装置v1.0
+2.完成：500kV线路测控装置测试
+

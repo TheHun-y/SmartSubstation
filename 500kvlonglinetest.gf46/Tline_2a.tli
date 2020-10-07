@@ -1,0 +1,27 @@
+Line Summary:
+   {
+   Line Name = Tline_2a
+   Line Length = 200.0
+   Steady State Frequency = 50.0
+   Number of Conductors = 3
+   }
+! This should be in a section called TLINE-INPUT-DATA
+Bergeron Line Model Options:
+   {
+   Interpolate Travel Times = 1
+   Infinite Line Length = 0
+   High Frequency Approximation = 0
+   }
+! This should be in a section called TLINE-INPUT-DATA
+Manual Data Entry:
+   {
+   Data Entry Format = ohms/m
+   Long Line Corrected = 0
+   +ve Sequence Resistance = 2.1075e-05
+   +ve Sequence Inductive Reactance = 0.0002845
+   +ve Sequence Capacitive Reactance = 333.48
+   0 Sequence Resistance = 0.00023638
+   0 Sequence Inductive Reactance = 0.000825
+   0 Sequence Capacitive Reactance = 480.72
+   Estimate Zero Sequence = 0
+   }

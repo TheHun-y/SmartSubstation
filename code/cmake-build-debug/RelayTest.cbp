@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RelayTest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RelayTest">
+				<Option output="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/RelayTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 RelayTest"/>
+					<CompileFile command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RelayTest/fast">
+				<Option output="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/RelayTest.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/mingw/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 RelayTest/fast"/>
+					<CompileFile command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/mingw/mingw64/bin/mingw32-make.exe -f &quot;E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/bus.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busAntiSaturation.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busAntiSaturation_500kV.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busBlockLogic.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busBranchFailureRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busBrkFailureJudgeAux_500kV.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busBrkFailureRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busBrkFailureRelay_500kV.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busDeadZoneRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busDiffBackup.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busDiffRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busDiffRelay_500kV.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busModeRecognize.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busOpenPhaseRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busOverCurrentRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busPTBreakRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busStarter.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busStarter_500kV.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/busTripGenerate.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/bus_500kV.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/common.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/common.h">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/currentDiffRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/dataStruct.h">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/deltaDistanceRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/distanceRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/line.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/lineStarter.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/mea/meaSample.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/overCurrentRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/relayMain.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/deltaDiff.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/imp.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/lonDiff.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/lowSideDiff.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/overCur.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/splitDiff.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/tran.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/tranStarter.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/tran/zeroDiff.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/zeroSeqCurrentRelay.c">
+			<Option target="RelayTest"/>
+		</Unit>
+		<Unit filename="E:/Modeling_of_Smart_Substations/FinalModel/Model20200810_v2/code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

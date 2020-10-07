@@ -1,0 +1,4 @@
+[错误] Simulation Time: 0.000000s [mea_500kV_1]: CT一次侧额定值（kA）参数未定义!
+[错误] Simulation Time: 0.000000s [mea_500kV_1]: 零序CT一次侧额定值（kA）参数未定义!
+[信息] Simulation Time: 0.000000s [mea_500kV_1]: 读取测控装置整定值完毕...OK
+[信息] Simulation Time: 0.000000s [mea_500kV_1]: 测控装置初始化完毕...OK

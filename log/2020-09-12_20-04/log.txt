@@ -1,0 +1,7 @@
+[信息] Simulation Time: 0.000000s [mea_500kV_1]: 读取测控装置整定值完毕...OK
+[信息] Simulation Time: 0.000000s [mea_500kV_1]: 测控装置初始化完毕...OK
+[信息] Simulation Time: 0.000375s [mea_500kV_1]: 瞬时值测试...OK
+[信息] Simulation Time: 0.000375s [mea_500kV_1]: 走到了采样选择的出口...OK
+[信息] Simulation Time: 0.000375s [mea_500kV_1]: 走到了电流采样值中...OK
+[信息] Simulation Time: 0.000375s [mea_500kV_1]: 电流滤波完了...OK
+[信息] Simulation Time: 0.000375s [mea_500kV_1]: 走到了遥测函数中...OK

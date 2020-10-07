@@ -1,0 +1,16 @@
+ Line Constants Program for PSCAD X4
+ Build: 2016.08.11
+ (c)1995-2015 Manitoba HVDC Research Centre
+    (a division of Manitoba Hydro International Ltd.)
+ 
+ Reading Data from File 
+ E:\Modeling_of_Smart_Substations\MeasurementTest\500kvlonglinetest.gf46\Tline_2
+ b.tli                                                                          
+                                           
+ *WARNING*: The modal velocity (   339896230.874456     
+ is greater than speed of light (~3e8 m/s)
+ *WARNING*: The modal velocity (   339896230.874456     
+ is greater than speed of light (~3e8 m/s)
+ Line Constants Ending!
+ Tline Ending....
+0
